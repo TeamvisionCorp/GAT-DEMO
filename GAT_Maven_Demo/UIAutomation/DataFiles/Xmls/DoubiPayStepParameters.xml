@@ -1,0 +1,10 @@
+<AllStepParameters>
+    <StepParameter ID="Test01" Name="Demo" >
+      <ConnectionString>FDFD</ConnectionString>
+      <CommandText>demo</CommandText>
+      <Parameters>
+      <parameter Key="targeturl" Value="http://www.baidu.com"/>
+      <parameter Key="searchkeyword" Value="酒店"/>
+     </Parameters>
+    </StepParameter>
+</AllStepParameters>

@@ -1,0 +1,318 @@
+<AllStepParameters>
+	<StepParameter ID="loginTest" Name="login" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/login"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$auto_login" Value="false"/>
+	  <parameter Key="location" Value="/"/>
+      <parameter Key="status" Value="1"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="createTeamTest" Name="createTeam" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/create"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="$quota" Value="0"/>
+	  <parameter Key="$member_limit" Value="5"/>
+	  <parameter Key="$root" Value="databox"/>
+	  <parameter Key="status" Value="created"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="createErrorTest" Name="createError" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/create"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="$quota" Value="0"/>
+	  <parameter Key="$member_limit" Value="5"/>
+	  <parameter Key="$root" Value="databox"/>
+	  <parameter Key="type" Value="error"/>
+	  <parameter Key="code" Value="team already exist"/>
+	  <parameter Key="state" Value="409"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="quotaErrorTest" Name="quotaError" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/create"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$quota" Value="1074266112010742661120"/>
+	  <parameter Key="$member_limit" Value="5"/>
+	  <parameter Key="$root" Value="databox"/>
+	  <parameter Key="type" Value="error"/>
+	  <parameter Key="state" Value="401"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="memberErrorTest" Name="memberError" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/create"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$quota" Value="0"/>
+	  <parameter Key="$member_limit" Value="100"/>
+	  <parameter Key="$root" Value="databox"/>
+	  <parameter Key="type" Value="error"/>
+	  <parameter Key="state" Value="401"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="findTest" Name="find" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/info/get/"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$_" Value="1419215832950"/>
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="updateTest" Name="update" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/info/set/"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="$quota" Value="0"/>
+	  <parameter Key="$member_limit" Value="5"/>
+	  <parameter Key="status" Value="updated"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="teamlistTest" Name="teamlist" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/list_by_user/"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="createTest" Name="create" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/create"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="$quota" Value="0"/>
+	  <parameter Key="$password" Value="000000"/>
+	  <parameter Key="active" Value="true"/>
+	  <parameter Key="password_changeable" Value="true"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="userlistTest" Name="userlist" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/list_for_pages"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$account_id" Value="1"/>
+	  <parameter Key="$uid" Value="1"/>
+	  <parameter Key="$_" Value="1418018759851"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="findUserTest" Name="findUser" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/info/get/"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$account_id" Value="1"/>
+	  <parameter Key="$uid" Value="1"/>
+	  <parameter Key="$_" Value="1418018759851"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="searchTest" Name="search" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/list"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$account_id" Value="1"/>
+	  <parameter Key="$uid" Value="1"/>
+	  <parameter Key="$_" Value="1418018759851"/>
+	  <parameter Key="$role" Value="member"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="createMemberTest" Name="createMember" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/membership/create/"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="batchCreateTest" Name="batchCreate" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/membership/batch_create/"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="getMemberTest" Name="getMember" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/membership/get/"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="$page_num" Value="0"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="listByIdTest" Name="listById" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/list_by_id/"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="$with_member" Value="false"/>
+	  <parameter Key="$page_num" Value="0"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="setAdminTest" Name="setAdmin" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/admin/set/"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="unsetAdminTest" Name="unsetAdmin" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/admin/unset/"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="kickoffTest" Name="kickoff" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/membership/kickoff/"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="authlistTest" Name="authlist" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/auth/list_subset_resource"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="$_" Value="1418018759851"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="deleteTest" Name="delete" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/delete/"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="create1Test" Name="create1" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/create"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="$quota" Value="0"/>
+	  <parameter Key="$password" Value="000000"/>
+	  <parameter Key="active" Value="true"/>
+	  <parameter Key="password_changeable" Value="true"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="freezeTest" Name="freeze">
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/freeze/uid"/>
+      <parameter Key="httpmethod" Value="POST"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="freeze1Test" Name="freeze1">
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/batch_freeze"/>
+      <parameter Key="httpmethod" Value="POST"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="activateTest" Name="activate">
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/activate/uid"/>
+      <parameter Key="httpmethod" Value="POST"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="activate1Test" Name="activate1">
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/batch_activate"/>
+      <parameter Key="httpmethod" Value="POST"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="batchDeleteTest" Name="batchDelete" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/user/batch_delete"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+	  <parameter Key="type" Value="succeed"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="deleteTeamTest" Name="deleteTeam" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="/v2/team/delete/"/>
+      <parameter Key="httpmethod" Value="POST"/>	  
+	  <parameter Key="$account_id" Value="20"/>
+	  <parameter Key="$uid" Value="49"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="exportTest" Name="export" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+     </Parameters>
+    </StepParameter>
+</AllStepParameters>

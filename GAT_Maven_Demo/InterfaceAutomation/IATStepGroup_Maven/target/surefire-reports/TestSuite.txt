@@ -1,0 +1,1530 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 215, Failures: 160, Errors: 0, Skipped: 0, Time elapsed: 64.619 sec <<< FAILURE! - in TestSuite
+TestAddSubcribeIS_Valid0(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.917 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestAddSubcribeIS_Valid0(BigEyesVideo3_AddSubscrib.java:50)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.161 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestAndroidParametersLegal(BigEyesVideo3_AddSubscrib.java:26)
+
+TestIncorrectType1(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.162 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestIncorrectType1(BigEyesVideo3_AddSubscrib.java:56)
+
+TestIncorrectType2(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.167 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestIncorrectType2(BigEyesVideo3_AddSubscrib.java:62)
+
+TestIncorrectType3(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.135 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestIncorrectType3(BigEyesVideo3_AddSubscrib.java:68)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.136 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestOsVersion60(BigEyesVideo3_AddSubscrib.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.151 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestOsVersion61(BigEyesVideo3_AddSubscrib.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.12 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestOsVersion71(BigEyesVideo3_AddSubscrib.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.159 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestRequiredParametersEmpty(BigEyesVideo3_AddSubscrib.java:86)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.118 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestRequiredParametersNull(BigEyesVideo3_AddSubscrib.java:80)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib)  Time elapsed: 0.118 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib.TestWindows(BigEyesVideo3_AddSubscrib.java:74)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage)  Time elapsed: 0.107 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage.TestAndroidParametersLegal(BigEyesVideo3_DeleteMessage.java:26)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage)  Time elapsed: 0.15 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage.TestRequiredParametersEmpty(BigEyesVideo3_DeleteMessage.java:44)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage)  Time elapsed: 0.123 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage.TestRequiredParametersNull(BigEyesVideo3_DeleteMessage.java:38)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage)  Time elapsed: 0.143 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage.TestWindows(BigEyesVideo3_DeleteMessage.java:32)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib)  Time elapsed: 0.123 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib.TestAndroidParametersLegal(BigEyesVideo3_DeleteSubscrib.java:26)
+
+TestInvalidType(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib)  Time elapsed: 0.141 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib.TestInvalidType(BigEyesVideo3_DeleteSubscrib.java:50)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib)  Time elapsed: 0.115 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib.TestOsVersion60(BigEyesVideo3_DeleteSubscrib.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib)  Time elapsed: 0.112 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib.TestOsVersion61(BigEyesVideo3_DeleteSubscrib.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib)  Time elapsed: 0.121 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib.TestOsVersion71(BigEyesVideo3_DeleteSubscrib.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib)  Time elapsed: 0.114 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib.TestRequiredParametersEmpty(BigEyesVideo3_DeleteSubscrib.java:68)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib)  Time elapsed: 0.145 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib.TestRequiredParametersNull(BigEyesVideo3_DeleteSubscrib.java:62)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib)  Time elapsed: 0.11 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib.TestWindows(BigEyesVideo3_DeleteSubscrib.java:56)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage)  Time elapsed: 0.108 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage.TestAndroidParametersLegal(BigEyesVideo3_GetActivityPage.java:26)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage)  Time elapsed: 0.145 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage.TestOsVersion60(BigEyesVideo3_GetActivityPage.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage)  Time elapsed: 0.111 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage.TestOsVersion61(BigEyesVideo3_GetActivityPage.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage)  Time elapsed: 0.137 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage.TestOsVersion71(BigEyesVideo3_GetActivityPage.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage)  Time elapsed: 0.109 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage.TestRequiredParametersEmpty(BigEyesVideo3_GetActivityPage.java:62)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage)  Time elapsed: 0.113 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage.TestRequiredParametersNull(BigEyesVideo3_GetActivityPage.java:56)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage)  Time elapsed: 0.14 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage.TestWindows(BigEyesVideo3_GetActivityPage.java:50)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList)  Time elapsed: 0.108 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList.TestAndroidParametersLegal(BigEyesVideo3_GetCommentList.java:26)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList)  Time elapsed: 0.109 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList.TestOsVersion60(BigEyesVideo3_GetCommentList.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList)  Time elapsed: 0.141 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList.TestOsVersion61(BigEyesVideo3_GetCommentList.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList)  Time elapsed: 0.112 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList.TestOsVersion71(BigEyesVideo3_GetCommentList.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList)  Time elapsed: 0.103 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList.TestRequiredParametersEmpty(BigEyesVideo3_GetCommentList.java:62)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList)  Time elapsed: 0.102 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList.TestRequiredParametersNull(BigEyesVideo3_GetCommentList.java:56)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList)  Time elapsed: 0.102 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList.TestWindows(BigEyesVideo3_GetCommentList.java:50)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory)  Time elapsed: 0.102 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory.TestAndroidParametersLegal(BigEyesVideo3_GetHistory.java:26)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory)  Time elapsed: 0.132 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory.TestOsVersion61(BigEyesVideo3_GetHistory.java:38)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory)  Time elapsed: 0.107 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory.TestOsVersion71(BigEyesVideo3_GetHistory.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory)  Time elapsed: 0.097 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory.TestRequiredParametersEmpty(BigEyesVideo3_GetHistory.java:56)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory)  Time elapsed: 0.101 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory.TestRequiredParametersNull(BigEyesVideo3_GetHistory.java:50)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory)  Time elapsed: 0.141 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory.TestWindows(BigEyesVideo3_GetHistory.java:44)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList)  Time elapsed: 0.1 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList.TestAndroidParametersLegal(BigEyesVideo3_GetMessageList.java:26)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList)  Time elapsed: 0.098 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList.TestOsVersion60(BigEyesVideo3_GetMessageList.java:38)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList)  Time elapsed: 0.099 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList.TestOsVersion71(BigEyesVideo3_GetMessageList.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList)  Time elapsed: 0.137 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList.TestRequiredParametersEmpty(BigEyesVideo3_GetMessageList.java:56)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList)  Time elapsed: 0.104 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList.TestRequiredParametersNull(BigEyesVideo3_GetMessageList.java:50)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList)  Time elapsed: 0.098 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList.TestWindows(BigEyesVideo3_GetMessageList.java:44)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib)  Time elapsed: 0.099 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib.TestAndroidParametersLegal(BigEyesVideo3_GetSubscrib.java:26)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib)  Time elapsed: 0.14 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib.TestOsVersion61(BigEyesVideo3_GetSubscrib.java:38)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib)  Time elapsed: 0.101 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib.TestOsVersion71(BigEyesVideo3_GetSubscrib.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib)  Time elapsed: 0.102 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib.TestRequiredParametersEmpty(BigEyesVideo3_GetSubscrib.java:56)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib)  Time elapsed: 0.095 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib.TestRequiredParametersNull(BigEyesVideo3_GetSubscrib.java:50)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib)  Time elapsed: 0.132 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib.TestWindows(BigEyesVideo3_GetSubscrib.java:44)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory)  Time elapsed: 0.097 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory.TestAndroidParametersLegal(BigEyesVideo3_PostHistory.java:26)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory)  Time elapsed: 0.102 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory.TestOsVersion60(BigEyesVideo3_PostHistory.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory)  Time elapsed: 0.095 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory.TestOsVersion61(BigEyesVideo3_PostHistory.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory)  Time elapsed: 0.132 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.exectuePreStep(InterfaceSingleStepExecutor.java:126)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.setUp(InterfaceSingleStepExecutor.java:50)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory.TestOsVersion71(BigEyesVideo3_PostHistory.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory)  Time elapsed: 0.097 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory.TestRequiredParametersEmpty(BigEyesVideo3_PostHistory.java:62)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory)  Time elapsed: 0.1 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory.TestRequiredParametersNull(BigEyesVideo3_PostHistory.java:56)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory)  Time elapsed: 0.097 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory.TestWindows(BigEyesVideo3_PostHistory.java:50)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.147 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestAndroidParametersLegal(BigEyesVideo3_SendComment.java:26)
+
+TestForbidenComments1(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.105 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestForbidenComments1(BigEyesVideo3_SendComment.java:38)
+
+TestForbidenComments2(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.11 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestForbidenComments2(BigEyesVideo3_SendComment.java:44)
+
+TestForbidenComments3(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.146 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestForbidenComments3(BigEyesVideo3_SendComment.java:50)
+
+TestForbidenComments4(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.107 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestForbidenComments4(BigEyesVideo3_SendComment.java:56)
+
+TestOsVersion101(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.108 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestOsVersion101(BigEyesVideo3_SendComment.java:74)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.138 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestOsVersion60(BigEyesVideo3_SendComment.java:62)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.107 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestOsVersion61(BigEyesVideo3_SendComment.java:68)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.108 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestOsVersion71(BigEyesVideo3_SendComment.java:32)
+
+TestRequiredParametersEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.102 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestRequiredParametersEmpty(BigEyesVideo3_SendComment.java:92)
+
+TestRequiredParametersNull(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.133 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestRequiredParametersNull(BigEyesVideo3_SendComment.java:86)
+
+TestWindows(com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment)  Time elapsed: 0.097 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.AddDynamicParameters(InterfaceSingleStepExecutor.java:172)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:154)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment.TestWindows(BigEyesVideo3_SendComment.java:80)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList)  Time elapsed: 0.477 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList.TestAndroidParametersLegal(BigEyesVideo_announcerList.java:26)
+
+TestAppVersion09(com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList)  Time elapsed: 0.423 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=12 actual.length=8553
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList.TestAppVersion09(BigEyesVideo_announcerList.java:56)
+
+TestOsVersion50(com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList)  Time elapsed: 1.169 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList.TestOsVersion50(BigEyesVideo_announcerList.java:50)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList)  Time elapsed: 1.061 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList.TestOsVersion60(BigEyesVideo_announcerList.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList)  Time elapsed: 0.544 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList.TestOsVersion61(BigEyesVideo_announcerList.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList)  Time elapsed: 0.482 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList.TestOsVersion71(BigEyesVideo_announcerList.java:32)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList)  Time elapsed: 0.281 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList.TestAndroidParametersLegal(BigEyesVideo_channelList.java:26)
+
+TestAppVersion09(com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList)  Time elapsed: 0.28 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=12 actual.length=749
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList.TestAppVersion09(BigEyesVideo_channelList.java:56)
+
+TestOsVersion50(com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList)  Time elapsed: 0.3 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList.TestOsVersion50(BigEyesVideo_channelList.java:50)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList)  Time elapsed: 0.277 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList.TestOsVersion60(BigEyesVideo_channelList.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList)  Time elapsed: 0.306 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList.TestOsVersion61(BigEyesVideo_channelList.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList)  Time elapsed: 0.218 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList.TestOsVersion71(BigEyesVideo_channelList.java:32)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_competition)  Time elapsed: 0.326 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/mozilla/javascript/Scriptable
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.meterware.httpunit.ParsedHTML.<clinit>(ParsedHTML.java:724)
+	at com.meterware.httpunit.WebResponse.getReceivedPage(WebResponse.java:1300)
+	at com.meterware.httpunit.WebResponse.getFrames(WebResponse.java:1285)
+	at com.meterware.httpunit.WebResponse.getFrameRequests(WebResponse.java:1024)
+	at com.meterware.httpunit.FrameHolder.updateFrames(FrameHolder.java:179)
+	at com.meterware.httpunit.WebWindow.updateFrameContents(WebWindow.java:315)
+	at com.meterware.httpunit.WebClient.updateFrameContents(WebClient.java:526)
+	at com.meterware.httpunit.WebWindow.updateWindow(WebWindow.java:201)
+	at com.meterware.httpunit.WebWindow.getSubframeResponse(WebWindow.java:183)
+	at com.meterware.httpunit.WebWindow.getResponse(WebWindow.java:158)
+	at com.meterware.httpunit.WebClient.getResponse(WebClient.java:122)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:158)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_competition.TestAndroidParametersLegal70(BigEyesVideo_competition.java:26)
+
+TestOptinalParametersOffsetEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo_competition)  Time elapsed: 0.262 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.meterware.httpunit.HTMLPage
+	at com.meterware.httpunit.WebResponse.getReceivedPage(WebResponse.java:1300)
+	at com.meterware.httpunit.WebResponse.getFrames(WebResponse.java:1285)
+	at com.meterware.httpunit.WebResponse.getFrameRequests(WebResponse.java:1024)
+	at com.meterware.httpunit.FrameHolder.updateFrames(FrameHolder.java:179)
+	at com.meterware.httpunit.WebWindow.updateFrameContents(WebWindow.java:315)
+	at com.meterware.httpunit.WebClient.updateFrameContents(WebClient.java:526)
+	at com.meterware.httpunit.WebWindow.updateWindow(WebWindow.java:201)
+	at com.meterware.httpunit.WebWindow.getSubframeResponse(WebWindow.java:183)
+	at com.meterware.httpunit.WebWindow.getResponse(WebWindow.java:158)
+	at com.meterware.httpunit.WebClient.getResponse(WebClient.java:122)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:158)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_competition.TestOptinalParametersOffsetEmpty(BigEyesVideo_competition.java:44)
+
+TestRequiredParametersLegal61(com.gateside.autotesting.generation.unittest.BigEyesVideo_competition)  Time elapsed: 0.288 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.meterware.httpunit.HTMLPage
+	at com.meterware.httpunit.WebResponse.getReceivedPage(WebResponse.java:1300)
+	at com.meterware.httpunit.WebResponse.getFrames(WebResponse.java:1285)
+	at com.meterware.httpunit.WebResponse.getFrameRequests(WebResponse.java:1024)
+	at com.meterware.httpunit.FrameHolder.updateFrames(FrameHolder.java:179)
+	at com.meterware.httpunit.WebWindow.updateFrameContents(WebWindow.java:315)
+	at com.meterware.httpunit.WebClient.updateFrameContents(WebClient.java:526)
+	at com.meterware.httpunit.WebWindow.updateWindow(WebWindow.java:201)
+	at com.meterware.httpunit.WebWindow.getSubframeResponse(WebWindow.java:183)
+	at com.meterware.httpunit.WebWindow.getResponse(WebWindow.java:158)
+	at com.meterware.httpunit.WebClient.getResponse(WebClient.java:122)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:158)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_competition.TestRequiredParametersLegal61(BigEyesVideo_competition.java:38)
+
+TestRequiredParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_competition)  Time elapsed: 0.265 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.meterware.httpunit.HTMLPage
+	at com.meterware.httpunit.WebResponse.getReceivedPage(WebResponse.java:1300)
+	at com.meterware.httpunit.WebResponse.getFrames(WebResponse.java:1285)
+	at com.meterware.httpunit.WebResponse.getFrameRequests(WebResponse.java:1024)
+	at com.meterware.httpunit.FrameHolder.updateFrames(FrameHolder.java:179)
+	at com.meterware.httpunit.WebWindow.updateFrameContents(WebWindow.java:315)
+	at com.meterware.httpunit.WebClient.updateFrameContents(WebClient.java:526)
+	at com.meterware.httpunit.WebWindow.updateWindow(WebWindow.java:201)
+	at com.meterware.httpunit.WebWindow.getSubframeResponse(WebWindow.java:183)
+	at com.meterware.httpunit.WebWindow.getResponse(WebWindow.java:158)
+	at com.meterware.httpunit.WebClient.getResponse(WebClient.java:122)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.getResponse(InterfaceSingleStepExecutor.java:158)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:57)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_competition.TestRequiredParametersLegal71(BigEyesVideo_competition.java:32)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList)  Time elapsed: 0.436 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList.TestAndroidParametersLegal(BigEyesVideo_heroList.java:26)
+
+TestAppVersion09(com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList)  Time elapsed: 0.497 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=12 actual.length=17098
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList.TestAppVersion09(BigEyesVideo_heroList.java:56)
+
+TestOsVersion50(com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList)  Time elapsed: 0.433 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList.TestOsVersion50(BigEyesVideo_heroList.java:50)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList)  Time elapsed: 0.505 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList.TestOsVersion60(BigEyesVideo_heroList.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList)  Time elapsed: 1.205 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList.TestOsVersion61(BigEyesVideo_heroList.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList)  Time elapsed: 1.652 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList.TestOsVersion71(BigEyesVideo_heroList.java:32)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights)  Time elapsed: 0.323 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights.TestAndroidParametersLegal(BigEyesVideo_highlights.java:26)
+
+TestAppVersion09(com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights)  Time elapsed: 0.319 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=12 actual.length=2889
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights.TestAppVersion09(BigEyesVideo_highlights.java:56)
+
+TestOsVersion50(com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights)  Time elapsed: 0.345 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights.TestOsVersion50(BigEyesVideo_highlights.java:50)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights)  Time elapsed: 0.299 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights.TestOsVersion60(BigEyesVideo_highlights.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights)  Time elapsed: 0.327 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights.TestOsVersion61(BigEyesVideo_highlights.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights)  Time elapsed: 0.289 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights.TestOsVersion71(BigEyesVideo_highlights.java:32)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_latestCompetition)  Time elapsed: 0.46 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_latestCompetition.TestAndroidParametersLegal70(BigEyesVideo_latestCompetition.java:26)
+
+TestRequiredParametersLegal61(com.gateside.autotesting.generation.unittest.BigEyesVideo_latestCompetition)  Time elapsed: 0.322 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_latestCompetition.TestRequiredParametersLegal61(BigEyesVideo_latestCompetition.java:38)
+
+TestRequiredParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_latestCompetition)  Time elapsed: 0.341 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_latestCompetition.TestRequiredParametersLegal71(BigEyesVideo_latestCompetition.java:32)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList)  Time elapsed: 0.241 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList.TestAndroidParametersLegal(BigEyesVideo_MatchList.java:26)
+
+TestAppVersion09(com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList)  Time elapsed: 0.758 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=12 actual.length=2852
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList.TestAppVersion09(BigEyesVideo_MatchList.java:56)
+
+TestOsVersion50(com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList)  Time elapsed: 0.306 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList.TestOsVersion50(BigEyesVideo_MatchList.java:50)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList)  Time elapsed: 0.312 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList.TestOsVersion60(BigEyesVideo_MatchList.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList)  Time elapsed: 0.327 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList.TestOsVersion61(BigEyesVideo_MatchList.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList)  Time elapsed: 0.283 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList.TestOsVersion71(BigEyesVideo_MatchList.java:32)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList)  Time elapsed: 0.392 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList.TestAndroidParametersLegal70(BigEyesVideo_newsList.java:26)
+
+TestOptinalParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList)  Time elapsed: 1.063 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList.TestOptinalParametersLegal71(BigEyesVideo_newsList.java:32)
+
+TestOptinalParametersLegalFirstLast(com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList)  Time elapsed: 0.485 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList.TestOptinalParametersLegalFirstLast(BigEyesVideo_newsList.java:44)
+
+TestOptinalParametersLegalFirstLastTwo(com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList)  Time elapsed: 0.408 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList.TestOptinalParametersLegalFirstLastTwo(BigEyesVideo_newsList.java:50)
+
+TestOptinalParametersOffsetNewsIdEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList)  Time elapsed: 0.445 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList.TestOptinalParametersOffsetNewsIdEmpty(BigEyesVideo_newsList.java:56)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo)  Time elapsed: 0.239 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo.TestAndroidParametersLegal70(BigEyesVideo_playerInfo.java:26)
+
+TestRequiredParametersLegal61(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo)  Time elapsed: 0.25 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo.TestRequiredParametersLegal61(BigEyesVideo_playerInfo.java:38)
+
+TestRequiredParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo)  Time elapsed: 0.716 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo.TestRequiredParametersLegal71(BigEyesVideo_playerInfo.java:32)
+
+TestRequiredParametersLegalId3(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo)  Time elapsed: 0.274 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo.TestRequiredParametersLegalId3(BigEyesVideo_playerInfo.java:68)
+
+TestRequiredParametersLegalId5(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo)  Time elapsed: 0.269 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo.TestRequiredParametersLegalId5(BigEyesVideo_playerInfo.java:80)
+
+TestRequiredParametersLegalId6(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo)  Time elapsed: 0.279 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo.TestRequiredParametersLegalId6(BigEyesVideo_playerInfo.java:74)
+
+TestRequiredParametersLegalId7(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo)  Time elapsed: 0.242 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo.TestRequiredParametersLegalId7(BigEyesVideo_playerInfo.java:86)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList)  Time elapsed: 0.362 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList.TestAndroidParametersLegal70(BigEyesVideo_playerList.java:26)
+
+TestRequiredParametersLegal61(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList)  Time elapsed: 1.016 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList.TestRequiredParametersLegal61(BigEyesVideo_playerList.java:44)
+
+TestRequiredParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList)  Time elapsed: 0.768 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList.TestRequiredParametersLegal71(BigEyesVideo_playerList.java:38)
+
+TestTeamNoHistory(com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList)  Time elapsed: 0.371 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList.TestTeamNoHistory(BigEyesVideo_playerList.java:32)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo_promote)  Time elapsed: 0.303 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_promote.TestAndroidParametersLegal(BigEyesVideo_promote.java:26)
+
+TestAppVersion09(com.gateside.autotesting.generation.unittest.BigEyesVideo_promote)  Time elapsed: 0.79 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=12 actual.length=4300
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_promote.TestAppVersion09(BigEyesVideo_promote.java:56)
+
+TestOsVersion50(com.gateside.autotesting.generation.unittest.BigEyesVideo_promote)  Time elapsed: 0.363 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_promote.TestOsVersion50(BigEyesVideo_promote.java:50)
+
+TestOsVersion60(com.gateside.autotesting.generation.unittest.BigEyesVideo_promote)  Time elapsed: 1.026 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_promote.TestOsVersion60(BigEyesVideo_promote.java:38)
+
+TestOsVersion61(com.gateside.autotesting.generation.unittest.BigEyesVideo_promote)  Time elapsed: 0.36 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_promote.TestOsVersion61(BigEyesVideo_promote.java:44)
+
+TestOsVersion71(com.gateside.autotesting.generation.unittest.BigEyesVideo_promote)  Time elapsed: 0.309 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_promote.TestOsVersion71(BigEyesVideo_promote.java:32)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_team)  Time elapsed: 0.861 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_team.TestAndroidParametersLegal70(BigEyesVideo_team.java:26)
+
+TestRequiredParametersLegal61(com.gateside.autotesting.generation.unittest.BigEyesVideo_team)  Time elapsed: 1.112 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_team.TestRequiredParametersLegal61(BigEyesVideo_team.java:44)
+
+TestRequiredParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_team)  Time elapsed: 0.322 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_team.TestRequiredParametersLegal71(BigEyesVideo_team.java:38)
+
+TestTeamNoHistory(com.gateside.autotesting.generation.unittest.BigEyesVideo_team)  Time elapsed: 0.365 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_team.TestTeamNoHistory(BigEyesVideo_team.java:32)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition)  Time elapsed: 0.248 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition.TestAndroidParametersLegal70(BigEyesVideo_teamCompetition.java:26)
+
+TestOptinalParametersOffsetEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition)  Time elapsed: 0.271 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition.TestOptinalParametersOffsetEmpty(BigEyesVideo_teamCompetition.java:44)
+
+TestRequiredParametersLegal61(com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition)  Time elapsed: 0.293 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition.TestRequiredParametersLegal61(BigEyesVideo_teamCompetition.java:38)
+
+TestRequiredParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition)  Time elapsed: 0.339 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition.TestRequiredParametersLegal71(BigEyesVideo_teamCompetition.java:32)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank)  Time elapsed: 0.459 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank.TestAndroidParametersLegal70(BigEyesVideo_teamRank.java:26)
+
+TestOptinalParametersLegal61(com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank)  Time elapsed: 1.201 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank.TestOptinalParametersLegal61(BigEyesVideo_teamRank.java:38)
+
+TestOptinalParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank)  Time elapsed: 0.333 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank.TestOptinalParametersLegal71(BigEyesVideo_teamRank.java:32)
+
+TestOptinalParametersOffsetTeamRankEmpty(com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank)  Time elapsed: 0.782 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank.TestOptinalParametersOffsetTeamRankEmpty(BigEyesVideo_teamRank.java:44)
+
+TestAndroidParametersLegal70(com.gateside.autotesting.generation.unittest.BigEyesVideo_video)  Time elapsed: 0.239 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_video.TestAndroidParametersLegal70(BigEyesVideo_video.java:26)
+
+TestRequiredParametersLegal61(com.gateside.autotesting.generation.unittest.BigEyesVideo_video)  Time elapsed: 0.27 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_video.TestRequiredParametersLegal61(BigEyesVideo_video.java:38)
+
+TestRequiredParametersLegal71(com.gateside.autotesting.generation.unittest.BigEyesVideo_video)  Time elapsed: 0.238 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_video.TestRequiredParametersLegal71(BigEyesVideo_video.java:32)
+
+TestAndroidParametersLegal(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.724 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestAndroidParametersLegal(BigEyesVideo_videoList.java:26)
+
+TestAppVersion09(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 1.082 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestAppVersion09(BigEyesVideo_videoList.java:74)
+
+TestIosOsVersion50(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.311 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestIosOsVersion50(BigEyesVideo_videoList.java:80)
+
+TestOptionalParametersLegalFirstId(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.286 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestOptionalParametersLegalFirstId(BigEyesVideo_videoList.java:32)
+
+TestOptionalParametersOffsetLastId(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.244 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=23 actual.length=43
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestOptionalParametersOffsetLastId(BigEyesVideo_videoList.java:62)
+
+TestOptionalParametersOffsetMidId(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.313 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestOptionalParametersOffsetMidId(BigEyesVideo_videoList.java:38)
+
+TestOptionalParametersOffsetType(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.236 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=23 actual.length=55
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestOptionalParametersOffsetType(BigEyesVideo_videoList.java:86)
+
+TestOptionalParametersOnlyTypeWithNoId(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.337 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestOptionalParametersOnlyTypeWithNoId(BigEyesVideo_videoList.java:50)
+
+TestOptionalParametersVideoIdAndOffsetFirstId(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.235 sec  <<< FAILURE!
+java.lang.AssertionError: Are equal exception : array lengths differed, expected.length=12 actual.length=43
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.internal.ComparisonCriteria.assertArraysAreSameLength(ComparisonCriteria.java:76)
+	at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:37)
+	at org.junit.Assert.internalArrayEquals(Assert.java:532)
+	at org.junit.Assert.assertArrayEquals(Assert.java:366)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:185)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestOptionalParametersVideoIdAndOffsetFirstId(BigEyesVideo_videoList.java:68)
+
+TestOptionalParametersVideoIdAndTypeSpecial(com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList)  Time elapsed: 0.274 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.invokeMethod(CaseExecutor.java:65)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.assertResult(InterfaceSingleStepExecutor.java:196)
+	at com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor.executeCase(InterfaceSingleStepExecutor.java:59)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:33)
+	at com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList.TestOptionalParametersVideoIdAndTypeSpecial(BigEyesVideo_videoList.java:44)
+
+RegisterGameUser_success(com.gateside.autotesting.generation.unittest.RegisterwithInviteCodeTestCase)  Time elapsed: 0.013 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/jaxen/JaxenException
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.dom4j.DocumentFactory.createXPath(DocumentFactory.java:230)
+	at org.dom4j.tree.AbstractNode.createXPath(AbstractNode.java:207)
+	at org.dom4j.tree.AbstractNode.selectNodes(AbstractNode.java:164)
+	at com.gateside.autotesting.Lib.xmlService.XMLParser.getElementsByXPath(XMLParser.java:57)
+	at com.gateside.autotesting.Lib.xmlService.XMLParser.getElementByID(XMLParser.java:32)
+	at com.gateside.autotesting.Gat.manager.TestObjectManager.getTestObjectXML(TestObjectManager.java:21)
+	at com.gateside.autotesting.Gat.manager.InterfaceStepsCaseManager.geTestCase(InterfaceStepsCaseManager.java:22)
+	at com.gateside.autotesting.Gat.manager.InterfaceStepsCaseManager.geTestCase(InterfaceStepsCaseManager.java:13)
+	at com.gateside.autotesting.Gat.manager.StepsCaseManager.getItem(StepsCaseManager.java:19)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.getTestObject(CaseExecutor.java:52)
+	at com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor.getTestCase(InterfaceStepsExecutor.java:39)
+	at com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor.getTestCase(InterfaceStepsExecutor.java:12)
+	at com.gateside.autotesting.Gat.executor.StepsExecutor.exectuePreStep(StepsExecutor.java:86)
+	at com.gateside.autotesting.Gat.executor.StepsExecutor.setUp(StepsExecutor.java:30)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.RegisterwithInviteCodeTestCase.RegisterGameUser_success(RegisterwithInviteCodeTestCase.java:26)
+
+TeamOperationStep(com.gateside.autotesting.generation.unittest.TeamTestCase)  Time elapsed: 0.01 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/jaxen/JaxenException
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.dom4j.DocumentFactory.createXPath(DocumentFactory.java:230)
+	at org.dom4j.tree.AbstractNode.createXPath(AbstractNode.java:207)
+	at org.dom4j.tree.AbstractNode.selectNodes(AbstractNode.java:164)
+	at com.gateside.autotesting.Lib.xmlService.XMLParser.getElementsByXPath(XMLParser.java:57)
+	at com.gateside.autotesting.Lib.xmlService.XMLParser.getElementByID(XMLParser.java:32)
+	at com.gateside.autotesting.Gat.manager.TestObjectManager.getTestObjectXML(TestObjectManager.java:21)
+	at com.gateside.autotesting.Gat.manager.InterfaceStepsCaseManager.geTestCase(InterfaceStepsCaseManager.java:22)
+	at com.gateside.autotesting.Gat.manager.InterfaceStepsCaseManager.geTestCase(InterfaceStepsCaseManager.java:13)
+	at com.gateside.autotesting.Gat.manager.StepsCaseManager.getItem(StepsCaseManager.java:19)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.getTestObject(CaseExecutor.java:52)
+	at com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor.getTestCase(InterfaceStepsExecutor.java:39)
+	at com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor.getTestCase(InterfaceStepsExecutor.java:12)
+	at com.gateside.autotesting.Gat.executor.StepsExecutor.exectuePreStep(StepsExecutor.java:86)
+	at com.gateside.autotesting.Gat.executor.StepsExecutor.setUp(StepsExecutor.java:30)
+	at com.gateside.autotesting.Gat.executor.CaseExecutor.execute(CaseExecutor.java:32)
+	at com.gateside.autotesting.generation.unittest.TeamTestCase.TeamOperationStep(TeamTestCase.java:26)
+

@@ -1,0 +1,9 @@
+<AllStepParameters>
+    <StepParameter ID="Test01" Name="fdsfsdfsd" >
+      <ConnectionString>fdsfsd</ConnectionString>
+      <CommandText>fdsfdsfsd</CommandText>
+      <Parameters>
+      <parameter Key="user" Value="zhangtiande"/>
+     </Parameters>
+    </StepParameter>
+</AllStepParameters>

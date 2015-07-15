@@ -1,0 +1,9 @@
+  <AllTestCases>
+    <StepParametersFilePath>RegisterwithInviteCodeParameters.xml</StepParametersFilePath>
+    <StepAssembly>com.baidu.gameqa.iat.steps.member.</StepAssembly>
+    <StepGroup>RegisterwithInviteCode</StepGroup>
+     <TestCase ID="Test01" Name="RegisterGameUser_success">
+       <Step StepName="Step1" StepParameterID="Test01"/>
+       <Step StepName="Step2" StepParameterID="Test04"/>
+    </TestCase>
+  </AllTestCases>

@@ -1,0 +1,45 @@
+<AllStepParameters>
+    <StepParameter ID="Test01" Name="RegisterGameUser_success" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="http://iyouxi.baidu.com/sso/register/invite/quick_reg.json"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$password" Value="111111"/>
+	  <parameter Key="$rePassword" Value="111111"/>
+	  <parameter Key="$inviteCode" Value="23586ec05990ebeac3d534313635180224e588b0e5a484e9809be9809be79a844c796e6e"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="Test02" Name="RegisterGameUser_NoInviteCode" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="http://iyouxi.baidu.com/sso/register/invite/quick_reg.json"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$password" Value="111111"/>
+	  <parameter Key="$rePassword" Value="111111"/>
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="Test03" Name="RegisterGameUser_existeduser" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="http://iyouxi.baidu.com/sso/register/invite/quick_reg.json"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$password" Value="111111"/>
+	  <parameter Key="$rePassword" Value="111111"/>
+	  <parameter Key="$inviteCode" Value="23586ec05990ebeac3d534313635180224e588b0e5a484e9809be9809be79a844c796e6e"/>	  
+     </Parameters>
+    </StepParameter>
+	<StepParameter ID="Test04" Name="RegisterGameUser_differentrepass" >
+      <ConnectionString></ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="url" Value="http://iyouxi.baidu.com/sso/register/invite/quick_reg.json"/>
+      <parameter Key="httpmethod" Value="GET"/>	  
+	  <parameter Key="$password" Value="111111"/>
+	  <parameter Key="$rePassword" Value="222222"/>
+	  <parameter Key="$inviteCode" Value="23586ec05990ebeac3d534313635180224e588b0e5a484e9809be9809be79a844c796e6e"/>	  
+     </Parameters>
+    </StepParameter>
+</AllStepParameters>

@@ -1,0 +1,35 @@
+  <AllTestCases>
+    <StepParametersFilePath>TeamParameters.xml</StepParametersFilePath>
+    <StepAssembly>com.lenovo.box.step.member.</StepAssembly>
+    <StepGroup>TeamOperationStep</StepGroup>
+     <TestCase ID="TeamOperationStep" Name="TeamOperationStep">
+	   <Step StepName="login" StepParameterID="loginTest"/>
+	   <Step StepName="createTeam" StepParameterID="createTeamTest"/>
+	   <Step StepName="createError" StepParameterID="createErrorTest"/>
+	   <Step StepName="quotaError" StepParameterID="quotaErrorTest"/>
+	   <Step StepName="memberError" StepParameterID="memberErrorTest"/>
+	   <Step StepName="find" StepParameterID="findTest"/>
+	   <Step StepName="update" StepParameterID="updateTest"/>	   
+	   <Step StepName="teamlist" StepParameterID="teamlistTest"/>
+	   <Step StepName="create" StepParameterID="createTest"/>
+	   <Step StepName="userlist" StepParameterID="userlistTest"/>
+	   <Step StepName="findUser" StepParameterID="findUserTest"/>
+	   <Step StepName="search" StepParameterID="searchTest"/>
+	   <Step StepName="createMember" StepParameterID="createMemberTest"/>
+	   <Step StepName="batchCreate" StepParameterID="batchCreateTest"/>
+	   <Step StepName="getMember" StepParameterID="getMemberTest"/>
+	   <Step StepName="listById" StepParameterID="listByIdTest"/>
+	   <Step StepName="setAdmin" StepParameterID="setAdminTest"/>
+	   <Step StepName="unsetAdmin" StepParameterID="unsetAdminTest"/>
+	   <Step StepName="kickoff" StepParameterID="kickoffTest"/>
+	   <Step StepName="authlist" StepParameterID="authlistTest"/>
+	   <Step StepName="delete" StepParameterID="deleteTest"/>
+	   <Step StepName="create1" StepParameterID="create1Test"/>
+	   <!--<Step StepName="freeze" StepParameterID="freezeTest"/>
+	   <Step StepName="freeze1" StepParameterID="freeze1Test"/>
+	   <Step StepName="activate" StepParameterID="activateTest"/>
+	   <Step StepName="activate1" StepParameterID="activate1Test"/>-->
+	   <Step StepName="batchDelete" StepParameterID="batchDeleteTest"/>
+	   <Step StepName="deleteTeam" StepParameterID="deleteTeamTest"/>
+    </TestCase>
+  </AllTestCases>

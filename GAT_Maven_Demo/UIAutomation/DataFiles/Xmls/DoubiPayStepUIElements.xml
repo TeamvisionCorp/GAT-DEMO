@@ -1,0 +1,4 @@
+<AllUIElements>
+    <UIElement NodeID="Test01" ControlType="WebUITextBox" WindowType="MainBrowser" FrameType="DefaultPage" ID="kw" Name="" XPath="" CssSelector="" InnerText="" LinkText="" TagName="" ClassName="" PropertyName="" PropertyValue="" IFrameName="" IFrameIndex="" WindowName=""/>
+    <UIElement NodeID="Test02" ControlType="WebUIButton" WindowType="MainBrowser" FrameType="DefaultPage" ID="su" Name="" XPath="" CssSelector="" InnerText="" LinkText="" TagName="" ClassName="" PropertyName="" PropertyValue="" IFrameName="" IFrameIndex="" WindowName=""/>
+</AllUIElements>

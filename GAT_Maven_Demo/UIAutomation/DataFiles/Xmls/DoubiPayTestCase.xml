@@ -1,0 +1,9 @@
+  <AllTestCases>
+    <StepParametersFilePath>DoubiPayStepParameters.xml</StepParametersFilePath>
+    <UIElementsFilePath>DoubiPayStepUIElements.xml</UIElementsFilePath>
+    <StepAssembly>com.gateside.autotesting.wuat.steps.demo.</StepAssembly>
+    <StepGroup>GameHomePageSteps</StepGroup>
+     <TestCase ID="Test01" Name="nihao">
+       <Step StepName="login" StepParameterID="Test01"/>
+    </TestCase>
+  </AllTestCases>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8819" started-at="2015-06-29T05:42:15Z" finished-at="2015-06-29T05:42:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8819" started-at="2015-06-29T05:42:15Z" finished-at="2015-06-29T05:42:24Z">
+      <class name="com.gateside.autotesting.generation.unittest.DoubiPayTestCase">
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:com.gateside.autotesting.generation.unittest.DoubiPayTestCase@3f0860]" name="beforeTestMethod" is-config="true" duration-ms="10" started-at="2015-06-29T13:42:15Z" finished-at="2015-06-29T13:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.gateside.autotesting.generation.unittest.DoubiPayTestCase@3f0860]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2015-06-29T13:42:15Z" finished-at="2015-06-29T13:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="nihao()[pri:0, instance:com.gateside.autotesting.generation.unittest.DoubiPayTestCase@3f0860]" name="nihao" duration-ms="8798" started-at="2015-06-29T13:42:15Z" finished-at="2015-06-29T13:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nihao -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.gateside.autotesting.generation.unittest.DoubiPayTestCase@3f0860]" name="afterMethod" is-config="true" duration-ms="0" started-at="2015-06-29T13:42:24Z" finished-at="2015-06-29T13:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClassMethod()[pri:0, instance:com.gateside.autotesting.generation.unittest.DoubiPayTestCase@3f0860]" name="afterClassMethod" is-config="true" duration-ms="0" started-at="2015-06-29T13:42:24Z" finished-at="2015-06-29T13:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassMethod -->
+      </class> <!-- com.gateside.autotesting.generation.unittest.DoubiPayTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

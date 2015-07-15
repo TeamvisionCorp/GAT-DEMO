@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition">
+        <methods>
+          <include name="TestAndroidParametersLegal70"/>
+          <include name="TestRequiredParametersLegal71"/>
+          <include name="TestOptinalParametersOffsetEmpty"/>
+          <include name="afterMethod"/>
+          <include name="TestRequiredParametersLegal61"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_teamCompetition -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib">
+        <methods>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion61"/>
+          <include name="TestIncorrectType3"/>
+          <include name="TestOsVersion60"/>
+          <include name="TestIncorrectType2"/>
+          <include name="TestWindows"/>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestAddSubcribeIS_Valid0"/>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestIncorrectType1"/>
+          <include name="afterClassMethod"/>
+          <include name="TestOsVersion71"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_AddSubscrib -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib">
+        <methods>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="afterMethod"/>
+          <include name="TestInvalidType"/>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestOsVersion71"/>
+          <include name="TestOsVersion61"/>
+          <include name="TestWindows"/>
+          <include name="TestOsVersion60"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteSubscrib -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_team">
+        <methods>
+          <include name="beforeTestMethod"/>
+          <include name="TestTeamNoHistory"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestRequiredParametersLegal71"/>
+          <include name="afterClassMethod"/>
+          <include name="TestRequiredParametersLegal61"/>
+          <include name="TestAndroidParametersLegal70"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_team -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory">
+        <methods>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestWindows"/>
+          <include name="TestOsVersion61"/>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestOsVersion71"/>
+          <include name="afterMethod"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetHistory -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList">
+        <methods>
+          <include name="afterClassMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeTestMethod"/>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion61"/>
+          <include name="TestOsVersion60"/>
+          <include name="TestAppVersion09"/>
+          <include name="TestOsVersion50"/>
+          <include name="TestOsVersion71"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_channelList -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList">
+        <methods>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestOsVersion61"/>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion71"/>
+          <include name="afterClassMethod"/>
+          <include name="TestWindows"/>
+          <include name="beforeTestMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestOsVersion60"/>
+          <include name="TestAndroidParametersLegal"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetCommentList -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank">
+        <methods>
+          <include name="TestAndroidParametersLegal70"/>
+          <include name="TestOptinalParametersLegal61"/>
+          <include name="afterMethod"/>
+          <include name="TestOptinalParametersOffsetTeamRankEmpty"/>
+          <include name="beforeMethod"/>
+          <include name="TestOptinalParametersLegal71"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_teamRank -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory">
+        <methods>
+          <include name="TestWindows"/>
+          <include name="afterClassMethod"/>
+          <include name="TestOsVersion71"/>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="afterMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeTestMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestOsVersion61"/>
+          <include name="TestOsVersion60"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_PostHistory -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage">
+        <methods>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestWindows"/>
+          <include name="TestOsVersion71"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestRequiredParametersNull"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion60"/>
+          <include name="TestOsVersion61"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetActivityPage -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage">
+        <methods>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestWindows"/>
+          <include name="afterClassMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeTestMethod"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_DeleteMessage -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList">
+        <methods>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestWindows"/>
+          <include name="afterClassMethod"/>
+          <include name="TestOsVersion71"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestOsVersion60"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetMessageList -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_videoUrl">
+        <methods>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_videoUrl -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="TestOsVersion61"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestWindows"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="afterMethod"/>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestOsVersion71"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_GetSubscrib -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList">
+        <methods>
+          <include name="TestOsVersion61"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestOsVersion60"/>
+          <include name="TestOsVersion50"/>
+          <include name="TestAppVersion09"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion71"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_heroList -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList">
+        <methods>
+          <include name="TestOptinalParametersOffsetNewsIdEmpty"/>
+          <include name="TestOptinalParametersLegalFirstLastTwo"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestOptinalParametersLegal71"/>
+          <include name="TestOptinalParametersLegalFirstLast"/>
+          <include name="TestAndroidParametersLegal70"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_newsList -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_video">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="TestRequiredParametersLegal71"/>
+          <include name="TestAndroidParametersLegal70"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestRequiredParametersLegal61"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_video -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo">
+        <methods>
+          <include name="beforeTestMethod"/>
+          <include name="afterMethod"/>
+          <include name="TestRequiredParametersLegal71"/>
+          <include name="afterClassMethod"/>
+          <include name="TestRequiredParametersLegalId3"/>
+          <include name="beforeMethod"/>
+          <include name="TestRequiredParametersLegalId5"/>
+          <include name="TestRequiredParametersLegalId6"/>
+          <include name="TestRequiredParametersLegalId7"/>
+          <include name="TestRequiredParametersLegal61"/>
+          <include name="TestAndroidParametersLegal70"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_playerInfo -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList">
+        <methods>
+          <include name="TestAndroidParametersLegal70"/>
+          <include name="TestRequiredParametersLegal61"/>
+          <include name="beforeMethod"/>
+          <include name="TestRequiredParametersLegal71"/>
+          <include name="afterClassMethod"/>
+          <include name="TestTeamNoHistory"/>
+          <include name="afterMethod"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_playerList -->
+      <class name="com.gateside.autotesting.generation.unittest.RegisterwithInviteCodeTestCase">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="afterMethod"/>
+          <include name="RegisterGameUser_success"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.RegisterwithInviteCodeTestCase -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_latestCompetition">
+        <methods>
+          <include name="TestRequiredParametersLegal71"/>
+          <include name="TestAndroidParametersLegal70"/>
+          <include name="TestRequiredParametersLegal61"/>
+          <include name="beforeTestMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_latestCompetition -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_promote">
+        <methods>
+          <include name="TestOsVersion60"/>
+          <include name="TestOsVersion50"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestOsVersion61"/>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="TestAppVersion09"/>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion71"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_promote -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion60"/>
+          <include name="TestAppVersion09"/>
+          <include name="beforeTestMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="TestOsVersion61"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="TestOsVersion50"/>
+          <include name="TestOsVersion71"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_highlights -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment">
+        <methods>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestForbidenComments4"/>
+          <include name="afterClassMethod"/>
+          <include name="TestForbidenComments3"/>
+          <include name="TestOsVersion101"/>
+          <include name="TestWindows"/>
+          <include name="TestForbidenComments1"/>
+          <include name="TestOsVersion71"/>
+          <include name="TestForbidenComments2"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="TestOsVersion61"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestOsVersion60"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo3_SendComment -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_competition">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="TestRequiredParametersLegal71"/>
+          <include name="TestAndroidParametersLegal70"/>
+          <include name="TestOptinalParametersOffsetEmpty"/>
+          <include name="TestRequiredParametersLegal61"/>
+          <include name="beforeTestMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_competition -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestOsVersion71"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestOsVersion60"/>
+          <include name="afterClassMethod"/>
+          <include name="TestOsVersion61"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="TestOsVersion50"/>
+          <include name="TestAppVersion09"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_announcerList -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList">
+        <methods>
+          <include name="afterClassMethod"/>
+          <include name="TestAppVersion09"/>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion71"/>
+          <include name="TestOsVersion61"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeTestMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestOsVersion50"/>
+          <include name="TestOsVersion60"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_MatchList -->
+      <class name="com.gateside.autotesting.generation.unittest.TeamTestCase">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="TeamOperationStep"/>
+          <include name="afterMethod"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.TeamTestCase -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList">
+        <methods>
+          <include name="TestOptionalParametersOnlyTypeWithNoId"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TestOptionalParametersVideoIdAndOffsetFirstId"/>
+          <include name="TestOptionalParametersOffsetLastId"/>
+          <include name="TestOptionalParametersLegalFirstId"/>
+          <include name="TestIosOsVersion50"/>
+          <include name="TestOptionalParametersOffsetType"/>
+          <include name="TestAppVersion09"/>
+          <include name="TestOptionalParametersVideoIdAndTypeSpecial"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="TestOptionalParametersOffsetMidId"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_videoList -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
