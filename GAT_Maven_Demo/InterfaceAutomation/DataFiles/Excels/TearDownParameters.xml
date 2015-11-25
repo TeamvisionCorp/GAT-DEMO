@@ -1,19 +1,19 @@
 <AllStepParameters>
 <StepParameter ID="DeleteAllInsertDataWithUid100_103" Name="DeleteSubscribe" >
-      <ConnectionString>jdbc:mysql://10.3.254.227:3306/bigeye_video</ConnectionString>
+      <ConnectionString>jdbc:mysql://10.3.24.7:3306/video</ConnectionString>
       <CommandText>delete from subscription where user_id in (100,101,102,103)</CommandText>
       <Parameters>
-      <parameter Key="user" Value="apple_user"/>
-      <parameter Key="password" Value="aabbccdd"/>
+      <parameter Key="user" Value="aper"/>
+      <parameter Key="password" Value="ccdd"/>
      </Parameters>
     </StepParameter>
 
 <StepParameter ID="CleanDataForSendCommentWithUID200_205" Name="SendComment" >
-      <ConnectionString>jdbc:mysql://10.3.254.227:3306/bigeye_video</ConnectionString>
+      <ConnectionString>jdbc:mysql://10.3.54.7:3306/video</ConnectionString>
       <CommandText>delete from user_comment where user_id in (200,201,202,203,204,205)</CommandText>
       <Parameters>
-      <parameter Key="user" Value="apple_user"/>
-      <parameter Key="password" Value="aabbccdd"/>
+      <parameter Key="user" Value="apser"/>
+      <parameter Key="password" Value="acdd"/>
      </Parameters>
     </StepParameter>
 </AllStepParameters>

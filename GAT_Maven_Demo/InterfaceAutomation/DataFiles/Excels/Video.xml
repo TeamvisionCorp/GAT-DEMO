@@ -1,0 +1,13 @@
+<AllStepParameters>
+     <StepParameter ID="announcer_list" Name="annolist_user" >
+      <ConnectionString>jdbc:mysql://10.3.4.7:3306/video</ConnectionString>
+      <CommandText></CommandText>
+      <Parameters>
+      <parameter Key="user" Value="apuser"/>
+      <parameter Key="password" Value="accdd"/>
+
+     </Parameters>
+    </StepParameter>
+
+
+</AllStepParameters>
