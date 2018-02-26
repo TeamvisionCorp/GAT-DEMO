@@ -25,6 +25,7 @@ public class GameHomePageSteps
 		{
 		  webPage.getWebControll("Test02").action("click").exec();
 		}
+		Thread.sleep(10000);
 	}
 	
 

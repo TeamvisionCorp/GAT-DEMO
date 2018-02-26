@@ -3,7 +3,7 @@
     <UIElementsFilePath>DoubiPayStepUIElements.xml</UIElementsFilePath>
     <StepAssembly>com.gateside.autotesting.wuat.steps.demo.</StepAssembly>
     <StepGroup>GameHomePageSteps</StepGroup>
-     <TestCase ID="Test01" Name="nihao">
+     <TestCase ID="Test01" Name="nihao" CaseTags="BVT">
        <Step StepName="login" StepParameterID="Test01"/>
     </TestCase>
   </AllTestCases>
