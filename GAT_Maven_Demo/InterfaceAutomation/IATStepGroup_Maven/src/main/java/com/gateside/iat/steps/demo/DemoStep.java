@@ -9,9 +9,9 @@ import com.gateside.autotesting.Gat.uia.webautomation.WebBrowser;
 import com.gateside.autotesting.Gat.uia.webautomation.WebPage;
 import com.gateside.autotesting.Gat.util.GlobalConfig;
 import com.gateside.autotesting.Gat.util.ParameterHelper;
+import com.gateside.autotesting.Gat.util.StepValueHelper;
 import com.gateside.autotesting.Gat.util.StepValuePool;
 import com.gateside.autotesting.Lib.common.SimpleLogger;
-import com.gateside.autotesting.Lib.dbService.MysqlDBOperationService;
 import com.gateside.autotesting.Lib.httpunitService.HttpUnitHelper;
 import com.meterware.httpunit.WebConversation;
 import com.meterware.httpunit.WebRequest;
@@ -33,12 +33,14 @@ public class DemoStep
 	     }
 	     WebResponse response=currentConversation.getResponse(currentRequest);
 	     System.out.println(response.getText());
-	     StepValuePool.createInstance().getValueDic().put("doubiToken",response.getText());
+	     StepValueHelper.putStepOutputValue("zhenbin","gao");
+
 	 }
 	 
 	 @StepMethodDesc(description="",owner="tiande.zhang")
 	 public void Step2(String parameterID) throws Exception
 	 {
+		 StepValueHelper.getStepOutputValue("zhenbin");
 		System.out.println(parameterID+StepValuePool.createInstance().getValueDic().get("doubiToken").toString());
 	 }
 	 

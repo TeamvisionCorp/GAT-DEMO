@@ -1,0 +1,248 @@
+[INFO ] [12:01:23] com.gateside.autotesting.Lib.common.SimpleLogger - Start create interface Excel Testcase class files
+[INFO ] [12:01:24] com.gateside.autotesting.Lib.common.SimpleLogger - Start create Interface XML Testcase class files
+[INFO ] [12:01:24] com.gateside.autotesting.Lib.common.SimpleLogger - Start create testng.xml files
+[INFO ] [12:17:10] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:10] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestAndroidParametersLegal
+[INFO ] [12:17:10] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:10] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:10] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:10] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestAndroidParametersLegalISingleStepCaseManager
+[INFO ] [12:17:11] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:11] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=android&os_version=7.0&app_version=2.0&
+[INFO ] [12:17:11] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:11] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:13] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:13] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:13] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestAppVersion09
+[INFO ] [12:17:13] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:13] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:13] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:13] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestAppVersion09ISingleStepCaseManager
+[INFO ] [12:17:14] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:14] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=android&os_version=7.0&app_version=2.0&id=159&type=hero&offset=14584&
+[INFO ] [12:17:14] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:14] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:14] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:14] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:14] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestIosOsVersion50
+[INFO ] [12:17:14] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:15] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:15] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:15] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestIosOsVersion50ISingleStepCaseManager
+[INFO ] [12:17:15] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:15] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=ios&os_version=5.0&app_version=2.0&id=158&type=competition&offset=2&
+[INFO ] [12:17:15] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:15] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestOptionalParametersLegalFirstId
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestOptionalParametersLegalFirstIdISingleStepCaseManager
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=android&os_version=7.1&app_version=2.0&id=14586&type=gallery&offset=158&
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:16] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestOptionalParametersOffsetLastId
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestOptionalParametersOffsetLastIdISingleStepCaseManager
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=ios&os_version=7.0&app_version=2.0&id=1&type=game&offset=156&
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:17] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:18] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:18] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:18] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestOptionalParametersOffsetMidId
+[INFO ] [12:17:18] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:18] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:18] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:18] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestOptionalParametersOffsetMidIdISingleStepCaseManager
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=android&os_version=6.1&app_version=2.0&id=158&type=recommend&offset=10&
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestOptionalParametersOffsetType
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestOptionalParametersOffsetTypeISingleStepCaseManager
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=ios&os_version=7.1&app_version=2.0&type=match&offset=1&
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:19] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestOptionalParametersOnlyTypeWithNoId
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestOptionalParametersOnlyTypeWithNoIdISingleStepCaseManager
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=android&os_version=7.0&app_version=2.0&type=announcer&
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:20] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestOptionalParametersVideoIdAndOffsetFirstId
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestOptionalParametersVideoIdAndOffsetFirstIdISingleStepCaseManager
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=android&os_version=6.0&app_version=2.0&id=2&offset=14335&
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:21] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestOptionalParametersVideoIdAndTypeSpecial
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestOptionalParametersVideoIdAndTypeSpecialISingleStepCaseManager
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=ios&os_version=6.0&app_version=2.0&id=152&type=special&
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:22] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestParametersEmpty
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestParametersEmptyISingleStepCaseManager
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/list
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:23] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:24] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:24] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:24] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestRequiredParametersNull
+[INFO ] [12:17:24] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:24] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:24] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:24] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestRequiredParametersNullISingleStepCaseManager
+[INFO ] [12:17:25] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:25] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=&os_version=&app_version=&id=1&type=player&offset=1&
+[INFO ] [12:17:25] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:25] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:25] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - *************************************************************
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start executing case :videoList.TestWindows
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set testcase file path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/Video.xlsx
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set setupparameters file as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Excels/SetupParameters.xml
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - videoList.TestWindowsISingleStepCaseManager
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - Start get response and assert result
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com//demo/api/listplatform=windows&os_version=7.0&app_version=2.0&id=&type=&offset=&
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - start add dycamicParameters
+[INFO ] [12:17:26] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - get response for url:http://www.demo.com/demo/api/list
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceSingleStepExecutor - set teaddown parameters file path
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :Test01
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Test01IStepsCaseManager
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls//R/e/s/t/|/R/e/g/i/s/t/e/r/w/i/t/h/I/n/v/i/t/e/C/o/d/e/P/a/r/a/m/e/t/e/r/s/./x/m/l/
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.baidu.gameqa.iat.steps.member.RegisterwithInviteCodeStep1Test01
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [12:17:27] com.gateside.autotesting.Lib.common.SimpleLogger - com.baidu.gameqa.iat.steps.member.RegisterwithInviteCode
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :TeamOperationStep
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/TeamTestCase.xml
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - TeamOperationStepIStepsCaseManager
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/TeamTestCase.xml
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls//T/e/a/m/P/a/r/a/m/e/t/e/r/s/./x/m/l/
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.lenovo.box.step.member.TeamOperationSteploginloginTest
+[INFO ] [12:17:27] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [12:17:27] com.gateside.autotesting.Lib.common.SimpleLogger - com.lenovo.box.step.member.TeamOperationStep
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :Test01
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Test01IStepsCaseManager
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls//R/e/s/t///R/e/g/i/s/t/e/r/w/i/t/h/I/n/v/i/t/e/C/o/d/e/P/a/r/a/m/e/t/e/r/s/./x/m/l/
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.baidu.gameqa.iat.steps.member.RegisterwithInviteCodeStep1Test01
+[INFO ] [12:18:21] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [12:18:21] com.gateside.autotesting.Lib.common.SimpleLogger - com.baidu.gameqa.iat.steps.member.RegisterwithInviteCode
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :Test01
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Test01IStepsCaseManager
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls//////////////////////////////////////////
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.baidu.gameqa.iat.steps.member.RegisterwithInviteCodeStep1Test01
+[INFO ] [12:23:03] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [12:23:03] com.gateside.autotesting.Lib.common.SimpleLogger - com.baidu.gameqa.iat.steps.member.RegisterwithInviteCode
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :Test01
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Test01IStepsCaseManager
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls/Rest/RegisterwithInviteCodeParameters.xml
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.baidu.gameqa.iat.steps.member.RegisterwithInviteCodeStep1Test01
+[INFO ] [12:27:16] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [12:27:16] com.gateside.autotesting.Lib.common.SimpleLogger - com.baidu.gameqa.iat.steps.member.RegisterwithInviteCode
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :Test01
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Test01IStepsCaseManager
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls/Rest/RegisterwithInviteCodeParameters.xml
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.baidu.gameqa.iat.steps.member.RegisterwithInviteCodeStep1Test01
+[INFO ] [12:28:28] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [12:28:28] com.gateside.autotesting.Lib.common.SimpleLogger - com.baidu.gameqa.iat.steps.member.RegisterwithInviteCode
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :Test01
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Test01IStepsCaseManager
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls/Rest/RegisterwithInviteCodeParameters.xml
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.baidu.gameqa.iat.steps.member.RegisterwithInviteCodeStep1Test01
+[INFO ] [12:29:06] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [12:29:06] com.gateside.autotesting.Lib.common.SimpleLogger - com.baidu.gameqa.iat.steps.member.RegisterwithInviteCode
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :Test01
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Test01IStepsCaseManager
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls/Rest/RegisterwithInviteCodeParameters.xml
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.baidu.gameqa.iat.steps.member.RegisterwithInviteCodeStep1Test01
+[INFO ] [12:29:47] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [12:29:47] com.gateside.autotesting.Lib.common.SimpleLogger - com.baidu.gameqa.iat.steps.member.RegisterwithInviteCode
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - *************************************************************
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Start executing case :Test01
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - preCleanup: run precleanup method
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute Setup Step:
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Test01IStepsCaseManager
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/RegisterwithInviteCodeTestCase.xml
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Step case interface id is RegisterwithInviteCode
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Step case interface module id is RegisterwithInviteCode
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - Step case tags id are BVT,EDU
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: set step parameter path as /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/InterfaceAutomation/DataFiles/Xmls/Rest/RegisterwithInviteCodeParameters.xml
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - executeCase: execute step:com.baidu.gameqa.iat.steps.member.RegisterwithInviteCodeStep1Test01
+[INFO ] [14:30:49] com.gateside.autotesting.Gat.executor.InterfaceStepsExecutor - execute step method 0 times
+[INFO ] [14:30:49] com.gateside.autotesting.Lib.common.SimpleLogger - com.baidu.gameqa.iat.steps.member.RegisterwithInviteCode

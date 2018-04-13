@@ -1,0 +1,42 @@
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - *************************************************************
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - Start executing case :Test01
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - preCleanup: run precleanup method
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/DoubiPayTestCase.xml
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - Test01WebUIStepCaseManager
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/DoubiPayTestCase.xml
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - executeCase: set step parameter path as DoubiPayStepParameters.xml
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - Step case tags id are BVT
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - Step case desc is 
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - executeCase: execute step:com.gateside.autotesting.wuat.steps.demo.GameHomePageStepsloginTest01
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - execute step method 0 times
+[INFO ] [15:09:48] com.gateside.autotesting.Lib.common.SimpleLogger - com.gateside.autotesting.wuat.steps.demo.GameHomePageSteps
+[INFO ] [15:09:48] com.gateside.autotesting.Lib.common.ClassReflector - login
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.manager.WebUIStepsParameterManager - /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/UIAutomation/DataFiles/Xmls/DoubiPayStepParameters.xmlTest01
+[INFO ] [15:09:48] com.gateside.autotesting.Gat.uia.webautomation.WebBrowser - http://www.baidu.com
+[INFO ] [15:09:49] com.gateside.autotesting.Lib.common.SimpleLogger - com.gateside.autotesting.wuat.steps.demo.WebUITextBox
+[INFO ] [15:09:49] com.gateside.autotesting.Gat.uia.webautomation.Action - class com.gateside.autotesting.wuat.steps.demo.WebUITextBox
+[INFO ] [15:09:49] com.gateside.autotesting.Lib.common.ClassReflector - inputText
+[INFO ] [15:09:49] com.gateside.autotesting.Lib.common.SimpleLogger - com.gateside.autotesting.Gat.uia.webautomation.webcontrols.WebUIButton
+[INFO ] [15:09:49] com.gateside.autotesting.Gat.uia.webautomation.Action - class com.gateside.autotesting.Gat.uia.webautomation.webcontrols.WebUIButton
+[INFO ] [15:10:00] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - tear down now 
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - *************************************************************
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - Start executing case :Test01
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - preCleanup: run precleanup method
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/DoubiPayTestCase.xml
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - Test01WebUIStepCaseManager
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - setGlobalConfig: set testcase file path as DataFiles/Xmls/DoubiPayTestCase.xml
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - executeCase: set step parameter path as DoubiPayStepParameters.xml
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - Step case tags id are BVT
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - Step case desc is 
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - executeCase: execute step:com.gateside.autotesting.wuat.steps.demo.GameHomePageStepsloginTest01
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - execute step method 0 times
+[INFO ] [15:10:30] com.gateside.autotesting.Lib.common.SimpleLogger - com.gateside.autotesting.wuat.steps.demo.GameHomePageSteps
+[INFO ] [15:10:30] com.gateside.autotesting.Lib.common.ClassReflector - login
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.manager.WebUIStepsParameterManager - /Users/ethan/Documents/OneDrive/coding.net/GAT_Maven/GAT_Maven_Demo/UIAutomation/DataFiles/Xmls/DoubiPayStepParameters.xmlTest01
+[INFO ] [15:10:30] com.gateside.autotesting.Gat.uia.webautomation.WebBrowser - http://www.baidu.com
+[INFO ] [15:10:31] com.gateside.autotesting.Lib.common.SimpleLogger - com.gateside.autotesting.wuat.steps.demo.WebUITextBox
+[INFO ] [15:10:31] com.gateside.autotesting.Gat.uia.webautomation.Action - class com.gateside.autotesting.wuat.steps.demo.WebUITextBox
+[INFO ] [15:10:31] com.gateside.autotesting.Lib.common.ClassReflector - inputText
+[INFO ] [15:10:32] com.gateside.autotesting.Lib.common.SimpleLogger - com.gateside.autotesting.Gat.uia.webautomation.webcontrols.WebUIButton
+[INFO ] [15:10:32] com.gateside.autotesting.Gat.uia.webautomation.Action - class com.gateside.autotesting.Gat.uia.webautomation.webcontrols.WebUIButton
+[INFO ] [15:10:43] com.gateside.autotesting.Gat.executor.WebUIStepsExecutor - tear down now 

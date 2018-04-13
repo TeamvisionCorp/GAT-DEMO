@@ -1,0 +1,12 @@
+  <AllTestCases>
+    <StepParametersFilePath>system/RoleManagerStepParameters.xml</StepParametersFilePath>
+    <UIElementsFilePath>system/RoleManagerStepUIElements.xml</UIElementsFilePath>
+    <StepAssembly>com.ged.webui.system.</StepAssembly>
+    <StepGroup>RoleManager</StepGroup>
+	
+     <TestCase ID="TestRoleManager" Name="system">
+	    <Step StepName="login" StepAssembly="com.ged.webui.login." StepGroup="Login" StepParameterID="Test01"  UIElementsFilePath="login/LoginStepUIElements.xml" StepParametersFilePath="login/LoginStepParameters.xml"/>		
+       <Step StepName="rolemanager" StepParameterID="TestRoleManager"/>
+    </TestCase>
+	
+  </AllTestCases>

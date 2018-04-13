@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.gateside.autotesting.generation.unittest.Video_videoList">
+        <methods>
+          <include name="TestOptionalParametersOnlyTypeWithNoId"/>
+          <include name="TestOptionalParametersVideoIdAndOffsetFirstId"/>
+          <include name="TestOptionalParametersLegalFirstId"/>
+          <include name="TestAppVersion09"/>
+          <include name="afterClassMethod"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="TestIosOsVersion50"/>
+          <include name="TestParametersEmpty"/>
+          <include name="TestOptionalParametersOffsetLastId"/>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestWindows"/>
+          <include name="TestOptionalParametersOffsetType"/>
+          <include name="TestOptionalParametersOffsetMidId"/>
+          <include name="TestOptionalParametersVideoIdAndTypeSpecial"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.Video_videoList -->
+      <class name="com.baidu.gameqa.iat.steps.member_unittest.RegisterwithInviteCodeTestCase">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="RegisterGameUser_success"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.baidu.gameqa.iat.steps.member_unittest.RegisterwithInviteCodeTestCase -->
+      <class name="com.lenovo.box.step.member_unittest.TeamTestCase">
+        <methods>
+          <include name="afterClassMethod"/>
+          <include name="afterMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TeamOperationStep"/>
+        </methods>
+      </class> <!-- com.lenovo.box.step.member_unittest.TeamTestCase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

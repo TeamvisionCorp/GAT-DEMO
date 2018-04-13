@@ -2,6 +2,8 @@ package com.gateside.autotesting.wuat.steps.demo;
 
 import javax.swing.border.Border;
 
+import org.testng.Assert;
+
 import com.gateside.autotesting.Gat.dataobject.WUATStepMethodDesc;
 import com.gateside.autotesting.Gat.dataobject.stepparameter.WebUIStepParameter;
 import com.gateside.autotesting.Gat.uia.webautomation.WebBrowser;
@@ -25,6 +27,7 @@ public class GameHomePageSteps
 		{
 		  webPage.getWebControll("Test02").action("click").exec();
 		}
+		Assert.assertTrue(false);
 		Thread.sleep(10000);
 	}
 	

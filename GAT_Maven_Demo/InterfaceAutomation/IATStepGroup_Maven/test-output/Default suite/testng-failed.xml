@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.baidu.gameqa.iat.steps.member_unittest.RegisterwithInviteCodeTestCase">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="RegisterGameUser_success"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.baidu.gameqa.iat.steps.member_unittest.RegisterwithInviteCodeTestCase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

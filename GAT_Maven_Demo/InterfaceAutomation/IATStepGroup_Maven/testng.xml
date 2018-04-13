@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="com.gateside.autotesting.generation.unittest.Video_videoList"/>
+      <class name="com.baidu.gameqa.iat.steps.member_unittest.RegisterwithInviteCodeTestCase"/>
+      <class name="com.lenovo.box.step.member_unittest.TeamTestCase"/>
+    </classes>
+  </test>
+</suite>

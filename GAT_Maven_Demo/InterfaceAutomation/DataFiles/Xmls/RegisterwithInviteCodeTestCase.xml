@@ -1,9 +1,17 @@
   <AllTestCases>
-    <StepParametersFilePath>RegisterwithInviteCodeParameters.xml</StepParametersFilePath>
+    <StepParametersFilePath>QT/sfs/RegistewithInviteCodeParameters.xml</StepParametersFilePath>
     <StepAssembly>com.baidu.gameqa.iat.steps.member.</StepAssembly>
     <StepGroup>RegisterwithInviteCode</StepGroup>
-     <TestCase ID="Test01" Name="RegisterGameUser_success">
-       <Step StepName="Step1" StepParameterID="Test01"/>
+    <InterfaceID>RegisterwithInviteCode</InterfaceID>
+    <ModuleID>RegisterwithInviteCode</ModuleID>
+     <TestCase ID="Test01" Name="RegisterGameUser_success" CaseTags="BVT,EC,MF" StepParametersFilePath="xxParters.xml">
+       <Desc>用例描述</Desc>
+       <Step StepName="Step1" StepParameterID="Test01" StepParametersFilePath="Rest_RegisterwithInviteCodeParameters.xml"/>
        <Step StepName="Step2" StepParameterID="Test04"/>
+       <Step StepName="Step3" StepParameterID="Test04"/>
+    </TestCase>
+     <TestCase ID="Test02" Name="RegisterGameUser_success" CaseTags="BVT" >
+       <Step StepName="Step2" StepParameterID="Test04"/>
+       <Step StepName="Step3" StepParameterID="Test04"/>
     </TestCase>
   </AllTestCases>

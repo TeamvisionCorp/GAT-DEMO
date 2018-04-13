@@ -5,10 +5,10 @@
     <classes>
       <class name="com.gateside.autotesting.generation.unittest.DoubiPayTestCase">
         <methods>
-          <include name="beforeTestMethod"/>
           <include name="afterClassMethod"/>
-          <include name="afterMethod"/>
           <include name="beforeMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="afterMethod"/>
           <include name="nihao"/>
         </methods>
       </class> <!-- com.gateside.autotesting.generation.unittest.DoubiPayTestCase -->

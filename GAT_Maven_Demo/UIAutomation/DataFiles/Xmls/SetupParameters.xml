@@ -1,9 +1,0 @@
-<AllStepParameters>
-    <StepParameter ID="Test01" Name="fdsfsdfsd" >
-      <ConnectionString>FDFD</ConnectionString>
-      <CommandText>fdsfdsfsd</CommandText>
-      <Parameters>
-      <parameter Key="wanba_cookies" Value="255cdfa44d97725d12f48c7b9e1a6606f237422532326c6f67696e4e616d652532322533412532322532336c616e676861693532313231253232253744"/>
-     </Parameters>
-    </StepParameter>
-</AllStepParameters>
